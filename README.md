@@ -9,3 +9,5 @@ This is for recording my progress of learning computer science by myself
 | UCB CS186: Introduction to Database Systems |
 | Stanford CS144: Introduction to Computer Networking |
 | Stanford CS229: Machine Learning |
+| CMU CS15-213: Introduction to Computer Systems |
+| Princeton Algorithm |
