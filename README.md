@@ -11,3 +11,4 @@ This is for recording my progress of learning computer science by myself
 | Stanford CS229: Machine Learning |
 | CMU CS15-213: Introduction to Computer Systems |
 | Princeton Algorithm |
+| UCB CS188: Introduction to Artificial Intelligence |
